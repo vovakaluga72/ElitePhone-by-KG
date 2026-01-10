@@ -1,8 +1,0 @@
-Ссылка на сайт: https://elitephonebykg.tilda.ws/
-
-Ссылка на UX-прототип: https://www.figma.com/site/VNJET6WhvymW8nvVNdJaBk/Untitled?node-id=0-1&p=f&t=6wiayxiDPCCQWvqZ-0
-Ссылка на UI-прототип: https://www.figma.com/site/U3b4hDRVtKdfhmimobWoMG/Untitled--Copy-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE?node-id=0-1&p=f&t=0RXJpuOyqdJIf3Tc-0
-
-Данные для входа в редактор Tilda:
-Почта: ariovistoffice@gmail.com
-Пароль: SAYREX_562
